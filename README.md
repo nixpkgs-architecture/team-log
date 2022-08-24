@@ -6,6 +6,10 @@ The next section is the team log, sorted in inverse chronological order
 
 ## Log
 
+- 2022-08-24: John Ericson, [@Ericson2314:matrix.org](https://matrix.to/#/@Ericson2314:matrix.org), [@Ericson2314](https://github.com/Ericson2314) from [Obsidian Systems](https://obsidian.systems/) joins the team
+  - Application: <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$RsaKD6vcjPVpnnpnEgLbmSoUX_9km_QQRWyPeqIP7M0>
+- 2022-08-24: Christian Höppner, [@chris:mkaito.net](https://matrix.to/#/@chris:mkaito.net), [@mkaito](https://github.com/mkaito) from [Tweag](https://www.tweag.io/) joins the team
+  - Application: <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$FzDIxhDDVbAtG6A7UAXGfkvHyxKAvXJfIXm7CXTZPs4>
 - 2022-07-18: Robert Hensing, [@roberthensing:matrix.org](https://matrix.to/#/@roberthensing:matrix.org), [@roberth](https://github.com/roberth), from [Hercules CI](https://hercules-ci.com/) joins the team
   - Application: <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$61rd4-IrYH-uzELPtOEUd7iwB4Fs2eAi25mZ3-cjdlU>
 - 2022-07-18: Thomas Bereknyei, [@tomberek:matrix.org](https://matrix.to/#/@tomberek:matrix.org), [@tomberek](https://github.com/tomberek), working at [flox](https://floxdev.com/), joins as the second member of the team.
