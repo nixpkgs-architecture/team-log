@@ -6,6 +6,8 @@ The next section is the team log, sorted in inverse chronological order
 
 ## Log
 
+- 2022-10-28: Alex Ameen, [@growpotkin1:matrix.org](https://matrix.to/#/@growpotkin1:matrix.org), [@aakropotkin](https://github.com/aakropotkin) from [Tulip Interfaces](https://tulip.co/platform/analytics/) joins the team
+  - Application <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$va2FF7_Z7xO8QDW4j2pP_htDzlFB15AgOyCZCLGgpco>
 - 2022-08-24: John Ericson, [@Ericson2314:matrix.org](https://matrix.to/#/@Ericson2314:matrix.org), [@Ericson2314](https://github.com/Ericson2314) from [Obsidian Systems](https://obsidian.systems/) joins the team
   - Application: <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$RsaKD6vcjPVpnnpnEgLbmSoUX_9km_QQRWyPeqIP7M0>
 - 2022-08-24: Christian Höppner, [@chris:mkaito.net](https://matrix.to/#/@chris:mkaito.net), [@mkaito](https://github.com/mkaito) from [Tweag](https://www.tweag.io/) joins the team
