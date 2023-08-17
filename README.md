@@ -6,9 +6,9 @@ The next section is the team log, sorted in inverse chronological order
 
 ## Log
 
-- 2022-08-17: David Hauer, [@hsngrmpf:matrix.org](https://matrix.to/#/@hsngrmpf:matrix.org), [@DavHau](https://github.com/DavHau/) joins the team
+- 2023-08-17: David Hauer, [@hsngrmpf:matrix.org](https://matrix.to/#/@hsngrmpf:matrix.org), [@DavHau](https://github.com/DavHau/) joins the team
   - Application <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$uso1fsMNDpPwWWRmnHlQgEUvzGZpd47iIbvK66urKQA>
-- 2022-08-17: Paul Haerle, [@phaer:matrix.org](https://matrix.to/#/@phaer:matrix.org), [@phaer](https://github.com/phaer/) joins the team
+- 2023-08-17: Paul Haerle, [@phaer:matrix.org](https://matrix.to/#/@phaer:matrix.org), [@phaer](https://github.com/phaer/) joins the team
   - Application <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$brvOQaD9LqD-bGpG6O7WfWxZx4RPVcmNJ9hOXeW-vPo>
 - 2022-11-05: Christian Höppner leaves the team: <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$Gr019zrsCvf5EA8vGjJ_ly8A-SAsPKOUyNMjwpnkJwE>
 - 2022-10-28: Alex Ameen, [@growpotkin1:matrix.org](https://matrix.to/#/@growpotkin1:matrix.org), [@aakropotkin](https://github.com/aakropotkin) from [Tulip Interfaces](https://tulip.co/platform/analytics/) joins the team
