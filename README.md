@@ -6,6 +6,7 @@ The next section is the team log, sorted in inverse chronological order
 
 ## Log
 
+- 2023-11-28: Paul Haerle leaves the team voluntarily on their own, discussed in meeting #46
 - 2023-08-17: David Hauer, [@hsngrmpf:matrix.org](https://matrix.to/#/@hsngrmpf:matrix.org), [@DavHau](https://github.com/DavHau/) joins the team
   - Application <https://matrix.to/#/!djTaTBQyWEPRQxrPTb:nixos.org/$uso1fsMNDpPwWWRmnHlQgEUvzGZpd47iIbvK66urKQA>
 - 2023-08-17: Paul Haerle, [@phaer:matrix.org](https://matrix.to/#/@phaer:matrix.org), [@phaer](https://github.com/phaer/) joins the team
